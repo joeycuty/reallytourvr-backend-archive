@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reallytourvr",
+  "private_key_id": "fad113f27bda4003a9ef101b527e7b3473eb3089",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcAHxO9ZJRomaA\nmgXpllLbwyeK3djsdm/KihwRjfCtz39FMcDz2Npti4KPXqTNWRvYIl4+LW6+StyG\ntl4bInUJ1vlYhfFRqB84iEot6Vz4FHRtXMgU6gw+di+sIposhadO1QSt3WmKOPEW\nqfnq25YAIbm8C3cHR5c/YcjDu12G4OlGKYydTG2FnNwFieUHEtvXrsGY+ADqggCm\nM4AfKT02yTQhoqLAd2+3cbhnrug9KFfbfPqA4dBYLnZXYDJIQZYZkldpWwVJKwEl\nOkJeZcghc9jNYYaxkZqe7DogbN1eGn2ZV4jBkpHjYn3aY0iAkKdBJ9I/DRHKL1Md\nxLGcL6IbAgMBAAECggEABsAxEE8yxTSBhrKzOb62Hi432WgDTwY3WfSw9czwNLUo\nR5xGOnVOBoyAXhveXLq+QvyS/b9xJX+wkqWn75c4Fiw1jITXqdTJ2Hc+J3iAtNAT\n3oM5VIL2CzifL94D8xfK0X1x3k/r/CTRKQvgMle4m5ptU5radSu6NWSvv2nRbeEM\nTH5Qf5ICnvRP47fwaULnU7Ga6T9fhMLPUP3Z/i2h0GWdLMeiD1hWK1VAP7Xsz1/7\nVKNJ9TRUpQ9r1jippKlXIn6OGHqlpvsyqfiaAVvHA5sFOf2IOYJ9D6dFZf3CWpIb\nMYqNjlFmeHKKbmgpZzhCIjhdpnta3dKorCdCGC3k8QKBgQD/viuOdTBNVq4p4fnm\nL7B3JuRGgM7o6sixuT5wuo8JuAfg0zhw37BZmN0gaOindLWdTr7KIPrBi7H8ybvF\nXDeG0q3zqFeU6sCiv5czVT5WKliXV9QToBE0D8B+6YNxNw88gq5s1AsrUjxkYVR3\ndSivq/P+ZRWkCC7+3ukdTK7faQKBgQDcOR2QcFn4FqBtI3T9zCRSyuVkMvwPMrqy\n4ZswO4hAuwpzNVx3g4swo89VClYptBtPqpRb2S6/L8WO250PMCWVFxEfxYBuQITk\nbBhupJ1nmu/eKfeXFsHjKvGMdkl9bF0jWGEsHIIUu4nKbSS8gC7kTLSLT1YYcbxJ\ntBwWvLpI4wKBgF5ZWFRcI4/EtMg62Cj12xJ6RKlGCA+h3pzCjKimCvM4858cDayG\nuda0MJAuY/azdfUtAfIsLJaO5QEvo5hyJwIUY5yKtJT57kuchzmm7zJ2uOxMuK7s\n1KvyS8AGgjmYaISYaaU4rU40LpeR2MmhbXsx4vgtbshvRHc+4Z2vlqxRAoGBAI0w\nbRzqezQMRaRTJDGHTQ5rmLAp4+JWks4WyGke8dcWU7fTUUoqYvW3QDj0XJN2LkBg\nS6erUUYv+YgCkupm4uF4HXlyJUoKQWk1SGC/V09STVDxNRR/+aSMJrr4J1urOvdr\nNTmTuW5TYh8O5IuZ3vZtmx7pqXgYiy/xskR9kS0jAoGAAzG2oJiKgcQ0043tk4E/\nx4Bl0ESS2PjHTpSnpbYrm/1jygtOGNOgatFqhFc2KeeFWmEvwNFtKHQ+akxWgbEM\nV6ygaPOxu1UxdoDgWIgan148UXijLMitHnwABTLVpTjC5XoTdgsYmTnxU6yH/6w6\ng2InGvS5q//F7JO4HzkT2LI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "email-stripe@reallytourvr.iam.gserviceaccount.com",
+  "client_id": "117842795716270357087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/email-stripe%40reallytourvr.iam.gserviceaccount.com"
+}
